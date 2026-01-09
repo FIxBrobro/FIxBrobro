@@ -1,16 +1,20 @@
-## Hi there 👋
+# привет 👋 я Дамир 
+💡Python-разработчик, интересуюсь backend
+##🔧 Мои hard-skills:
+- Python, ООП
+- Telegram (pyrogram)
+- PyGame
+- WEB-разработка (Flask, ORM, HTML, CSS)
+- Базы данных (SQLite, SQLAlchemy)
+- TensorFlow, NumPy, OpenCV
 
-<!--
-**FIxBrobro/FIxBrobro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##😋 Мои soft-skills:
+- домашнее
 
-Here are some ideas to get you started:
+##📌 Мои проекты:
+- Функциональный телеграм-бот, с клавиатурой, с генерацией изображений и с мини-играми
+- Игра-платформер в 2D на PyGame, с уровнями, анимацией и с подходом ООП
+- Собственный сайт про часы на Flask, HTML, CSS, ORM
+- Собственная нейросеть обученая на моих данных.  Модель классифицирует собак и кошек на изображении.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##📱 Мои контакты:
